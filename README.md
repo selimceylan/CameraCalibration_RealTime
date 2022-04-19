@@ -1,5 +1,5 @@
 # CameraCalibration_RealTime
-This is a software that apply real time calibration to cameras.
+This is a software that applies real time calibration to cameras.
 ## Purpose
 This software developed for calibration. 
 Thanks to this, in the vision of camera all of the same objects has same pixel size.
