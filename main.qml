@@ -10,9 +10,9 @@ Window {
     title: qsTr("Calibration")
     color: "gray"
     Image {
-        id: yonga
-        source: "file:/home/selim/Downloads/Yonga.jpg"
-        x: imageRect.x + imageRect.width/2 - yonga.width/2
+        id: imageOnTop
+        source: "" //Image you want to show.
+        x: imageRect.x + imageRect.width/2 - imageOnTop.width/2
         y:20
         width: 270
         height: 170
