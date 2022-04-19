@@ -1,5 +1,4 @@
 # CameraCalibration_RealTime
-This project developed with C++ language. A GUI added with QML. Project IDE is Qt.
 ## Purpose
 This software developed for calibration. 
 Thanks to this, in the vision of camera all of the same objects has same pixel size.
@@ -31,11 +30,11 @@ Before the calibration:
 
 ## Results with Hough
 Before calibration (right image) the same circles have a difference of 7 pixels in radius.
-After calibration there is only 1 pixel missing.
+After calibration (left image) there is only 1 pixel missing.
 ![Hough](https://user-images.githubusercontent.com/86148100/163863667-049460d0-acc2-43e9-99ab-f4a15f685e7b.png)
 
 ## Results with Canny Edge Detector and minAreaRect() function of OpenCV
-
+This is another example showing before and after calibration.
 ![Canny](https://user-images.githubusercontent.com/86148100/163863966-8e3dc4e8-7856-4951-ac4c-b250c543f49a.png)
 
 
