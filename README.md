@@ -1,4 +1,4 @@
-# CameraCalibration_RealTime
+# Camera Calibration Real Time
 This is a software that applies real time calibration to cameras.
 ## Purpose
 This software developed for calibration.\
