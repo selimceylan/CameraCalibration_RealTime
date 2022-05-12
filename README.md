@@ -20,7 +20,7 @@ Camera vision restriction: Chessboard must appear completely.\
 Number of chessboard corners and chessboard dimension should increase simultaneously with the dimensions of camera vision.\
 Number of x and y axis corners must be specified correct in code otherwise software does not work.
 
-## Paths followed by the algorithm
+## Paths Followed by the Algorithm
 1. Detect chessboard, if there is no chessboard warn the user.
 2. Draw corners and measure the differences between the corners.
 3. Figure out which side should be compressed.
