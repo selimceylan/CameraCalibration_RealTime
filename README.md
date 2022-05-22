@@ -18,7 +18,7 @@ This software developed with:
 User needs a chessboard.\
 Camera vision restriction: Chessboard must appear completely.\
 Number of chessboard corners and chessboard dimension should increase simultaneously with the dimensions of camera vision.\
-Number of x and y axis corners must be specified correct in code otherwise software does not work.
+Number of x and y axis corners must be specified correctly in code otherwise software does not work.
 
 ## Paths Followed by the Algorithm
 1. Detect chessboard, if there is no chessboard warn the user.
