@@ -43,4 +43,11 @@ After calibration (left image) there is only 1 pixel missing.
 This is another example showing before and after calibration.
 ![Canny](https://user-images.githubusercontent.com/86148100/163863966-8e3dc4e8-7856-4951-ac4c-b250c543f49a.png)
 
-
+## Citation
+Sending video to Qml:
+> title={SendVideoToQmlWithQThread},\
+  author={yunus temurlenk},\
+  year={2021},\
+  publisher={Github},\
+  journal={GitHub repository},\
+  howpublished={\url{https://github.com/yunus-temurlenk/SendVideoToQmlWithQThread }}\
