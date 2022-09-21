@@ -4,7 +4,7 @@ This is a software that applies real time calibration to cameras.
 ## Purpose
 This software developed for calibration.\
 Thanks to this, in the vision of camera all of the same objects has same pixel size.\
-The system can specify the exactly coordinates of the objects thanks to calibration.
+The system can specify the exact coordinates of the objects thanks to calibration.
 
 ## Environment
 This software developed with:
